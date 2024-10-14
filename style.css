@@ -1,0 +1,57 @@
+@charset "utf-8";
+.border-danger-subtle{
+    background-color: pink;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+    margin: 0 auto;
+    display: block;
+}
+.fw-bold{
+    color: rgb(253, 72, 172);
+    text-align: center;
+}
+.btn-primary {
+    background-color: white;
+}
+.footer {
+    background-color: pink;
+    color: #fff;
+    padding: 40px 0;
+}
+
+.footer h5 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.footer p {
+    margin-bottom: 10px;
+}
+
+.footer .logo {
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.footer .contact-info {
+    margin-bottom: 20px;
+}
+
+.footer .form-control,
+.footer .btn {
+    border-radius: 3;
+}
+
+.footer input[type="submit"] {
+    background-color: rgb(255, 123, 145);
+    color: #fff;
+    border: none;
+}
+
+.footer input[type="submit"]:hover {
+    background-color: rgb(253, 72, 172);
+}
